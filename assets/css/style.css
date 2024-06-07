@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0563bb;
+  background:linear-gradient(45deg, rgba(250, 86, 58, 0.9) 0%, rgba(214, 15, 116, 0.9) 100%);
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #0678e3;
+  background:linear-gradient(45deg, rgba(250, 86, 58, 0.9) 0%, rgba(214, 15, 116, 0.9) 100%);
   color: #fff;
 }
 
